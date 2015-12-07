@@ -1,0 +1,57 @@
+rss {
+    display: block;
+    font-family: verdana, arial;
+}
+title {
+    display: block;
+    margin: 5px;
+    padding: 2px;
+    color: #677821;
+    border-bottom: 1px solid silver;
+    font-weight: bold;
+}
+link {
+    display: block;
+    font-size: small;
+    padding-left: 10px;
+}
+item {
+    display: block;
+    padding: 2px 30px 2px 30px;
+}
+docs {
+    display: block;
+    background-color: #ffffe6;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+    color: #7f7f7f;
+    border: 1px solid silver;
+}
+/* all hidden elements */
+description{
+    display: block;
+    background-color: #ffffff;
+    margin: 10px 10px 10px 10px;
+    text-align: left;
+    font-family: verdana, arial;
+    color: #000;
+    font-size: 13px;
+    padding: 5px;    
+    border: 1px solid silver;
+}
+p{
+    font-family: verdana, arial;
+    display: block;
+    background-color: #ffffff;    
+    margin: 5px;
+    font-weight: bold;
+    padding: 5px;  
+}
+a{
+    font-family: verdana, arial;
+    display: block;
+    background-color: #ffffff;
+    font-weight: 100;
+    margin: 5px;
+}
